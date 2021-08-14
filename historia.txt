@@ -10,16 +10,4 @@ Experimento 2
 master 1
 master 2
 
-x d 
-
-
-
-
-
-
-
-
-
-
-
-master 3
+x d hiy
